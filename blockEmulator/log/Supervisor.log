@@ -1,0 +1,106 @@
+Supervisor: 2023/06/08 15:56:34 supervisor.go:162: Supervisor begins listening：127.0.0.1:18800
+Supervisor: 2023/06/08 15:56:35 committee_relay.go:128: received from shard 1 in epoch 0.
+Supervisor: 2023/06/08 15:56:36 committee_relay.go:128: received from shard 0 in epoch 0.
+Supervisor: 2023/06/08 15:56:40 committee_relay.go:128: received from shard 1 in epoch 0.
+Supervisor: 2023/06/08 15:56:41 committee_relay.go:128: received from shard 0 in epoch 0.
+Supervisor: 2023/06/08 15:56:45 committee_relay.go:128: received from shard 1 in epoch 0.
+Supervisor: 2023/06/08 15:56:46 committee_relay.go:128: received from shard 0 in epoch 0.
+Supervisor: 2023/06/08 15:56:51 committee_relay.go:128: received from shard 1 in epoch 0.
+Supervisor: 2023/06/08 15:56:51 committee_relay.go:128: received from shard 0 in epoch 0.
+Supervisor: 2023/06/08 15:56:56 committee_relay.go:128: received from shard 1 in epoch 0.
+Supervisor: 2023/06/08 15:56:56 committee_relay.go:128: received from shard 0 in epoch 0.
+Supervisor: 2023/06/08 15:57:01 committee_relay.go:128: received from shard 1 in epoch 0.
+Supervisor: 2023/06/08 15:57:01 committee_relay.go:128: received from shard 0 in epoch 0.
+Supervisor: 2023/06/08 15:57:06 committee_relay.go:128: received from shard 1 in epoch 0.
+Supervisor: 2023/06/08 15:57:06 committee_relay.go:128: received from shard 0 in epoch 0.
+Supervisor: 2023/06/08 15:57:12 committee_relay.go:128: received from shard 1 in epoch 0.
+Supervisor: 2023/06/08 15:57:12 committee_relay.go:128: received from shard 0 in epoch 0.
+Supervisor: 2023/06/08 15:57:16 committee_relay.go:128: received from shard 1 in epoch 0.
+Supervisor: 2023/06/08 15:57:16 committee_relay.go:128: received from shard 0 in epoch 0.
+Supervisor: 2023/06/08 15:57:21 committee_relay.go:128: received from shard 1 in epoch 0.
+Supervisor: 2023/06/08 15:57:22 committee_relay.go:128: received from shard 0 in epoch 0.
+Supervisor: 2023/06/08 15:57:26 committee_relay.go:128: received from shard 1 in epoch 0.
+Supervisor: 2023/06/08 15:57:27 committee_relay.go:128: received from shard 0 in epoch 0.
+Supervisor: 2023/06/08 15:57:31 committee_relay.go:128: received from shard 1 in epoch 0.
+Supervisor: 2023/06/08 15:57:32 committee_relay.go:128: received from shard 0 in epoch 0.
+Supervisor: 2023/06/08 15:57:36 committee_relay.go:128: received from shard 1 in epoch 0.
+Supervisor: 2023/06/08 15:57:37 committee_relay.go:128: received from shard 0 in epoch 0.
+Supervisor: 2023/06/08 15:57:41 committee_relay.go:128: received from shard 1 in epoch 0.
+Supervisor: 2023/06/08 15:57:42 committee_relay.go:128: received from shard 0 in epoch 0.
+Supervisor: 2023/06/08 15:57:48 committee_relay.go:128: received from shard 1 in epoch 0.
+Supervisor: 2023/06/08 15:57:48 committee_relay.go:128: received from shard 0 in epoch 0.
+Supervisor: 2023/06/08 15:57:52 committee_relay.go:128: received from shard 1 in epoch 0.
+Supervisor: 2023/06/08 15:57:52 committee_relay.go:128: received from shard 0 in epoch 0.
+Supervisor: 2023/06/08 15:57:57 committee_relay.go:128: received from shard 1 in epoch 0.
+Supervisor: 2023/06/08 15:57:57 committee_relay.go:128: received from shard 0 in epoch 0.
+Supervisor: 2023/06/08 15:58:02 committee_relay.go:128: received from shard 1 in epoch 0.
+Supervisor: 2023/06/08 15:58:02 committee_relay.go:128: received from shard 0 in epoch 0.
+Supervisor: 2023/06/08 15:58:07 committee_relay.go:128: received from shard 1 in epoch 0.
+Supervisor: 2023/06/08 15:58:08 committee_relay.go:128: received from shard 0 in epoch 0.
+Supervisor: 2023/06/08 15:58:12 committee_relay.go:128: received from shard 1 in epoch 0.
+Supervisor: 2023/06/08 15:58:13 committee_relay.go:128: received from shard 0 in epoch 0.
+Supervisor: 2023/06/08 15:58:17 committee_relay.go:128: received from shard 1 in epoch 0.
+Supervisor: 2023/06/08 15:58:18 committee_relay.go:128: received from shard 0 in epoch 0.
+Supervisor: 2023/06/08 15:58:22 committee_relay.go:128: received from shard 1 in epoch 0.
+Supervisor: 2023/06/08 15:58:23 committee_relay.go:128: received from shard 0 in epoch 0.
+Supervisor: 2023/06/08 15:58:27 committee_relay.go:128: received from shard 1 in epoch 0.
+Supervisor: 2023/06/08 15:58:28 committee_relay.go:128: received from shard 0 in epoch 0.
+Supervisor: 2023/06/08 15:58:32 committee_relay.go:128: received from shard 1 in epoch 0.
+Supervisor: 2023/06/08 15:58:33 committee_relay.go:128: received from shard 0 in epoch 0.
+Supervisor: 2023/06/08 15:58:38 committee_relay.go:128: received from shard 1 in epoch 0.
+Supervisor: 2023/06/08 15:58:38 committee_relay.go:128: received from shard 0 in epoch 0.
+Supervisor: 2023/06/08 15:58:44 committee_relay.go:128: received from shard 1 in epoch 0.
+Supervisor: 2023/06/08 15:58:44 committee_relay.go:128: received from shard 0 in epoch 0.
+Supervisor: 2023/06/08 15:58:48 committee_relay.go:128: received from shard 1 in epoch 0.
+Supervisor: 2023/06/08 15:58:49 committee_relay.go:128: received from shard 0 in epoch 0.
+Supervisor: 2023/06/08 15:58:53 committee_relay.go:128: received from shard 1 in epoch 0.
+Supervisor: 2023/06/08 15:58:54 committee_relay.go:128: received from shard 0 in epoch 0.
+Supervisor: 2023/06/08 15:58:58 committee_relay.go:128: received from shard 1 in epoch 0.
+Supervisor: 2023/06/08 15:58:59 committee_relay.go:128: received from shard 0 in epoch 0.
+Supervisor: 2023/06/08 15:59:03 committee_relay.go:128: received from shard 1 in epoch 0.
+Supervisor: 2023/06/08 15:59:04 committee_relay.go:128: received from shard 0 in epoch 0.
+Supervisor: 2023/06/08 15:59:08 committee_relay.go:128: received from shard 1 in epoch 0.
+Supervisor: 2023/06/08 15:59:09 committee_relay.go:128: received from shard 0 in epoch 0.
+Supervisor: 2023/06/08 15:59:14 committee_relay.go:128: received from shard 1 in epoch 0.
+Supervisor: 2023/06/08 15:59:14 committee_relay.go:128: received from shard 0 in epoch 0.
+Supervisor: 2023/06/08 15:59:18 committee_relay.go:128: received from shard 1 in epoch 0.
+Supervisor: 2023/06/08 15:59:19 committee_relay.go:128: received from shard 0 in epoch 0.
+Supervisor: 2023/06/08 15:59:24 committee_relay.go:128: received from shard 1 in epoch 0.
+Supervisor: 2023/06/08 15:59:24 committee_relay.go:128: received from shard 0 in epoch 0.
+Supervisor: 2023/06/08 15:59:29 committee_relay.go:128: received from shard 1 in epoch 0.
+Supervisor: 2023/06/08 15:59:30 committee_relay.go:128: received from shard 0 in epoch 0.
+Supervisor: 2023/06/08 15:59:34 committee_relay.go:128: received from shard 1 in epoch 0.
+Supervisor: 2023/06/08 15:59:34 committee_relay.go:128: received from shard 0 in epoch 0.
+Supervisor: 2023/06/08 15:59:40 committee_relay.go:128: received from shard 1 in epoch 0.
+Supervisor: 2023/06/08 15:59:40 committee_relay.go:128: received from shard 0 in epoch 0.
+Supervisor: 2023/06/08 15:59:44 committee_relay.go:128: received from shard 1 in epoch 0.
+Supervisor: 2023/06/08 15:59:45 committee_relay.go:128: received from shard 0 in epoch 0.
+Supervisor: 2023/06/08 15:59:49 committee_relay.go:128: received from shard 1 in epoch 0.
+Supervisor: 2023/06/08 15:59:50 committee_relay.go:128: received from shard 0 in epoch 0.
+Supervisor: 2023/06/08 15:59:54 committee_relay.go:128: received from shard 1 in epoch 0.
+Supervisor: 2023/06/08 15:59:55 committee_relay.go:128: received from shard 0 in epoch 0.
+Supervisor: 2023/06/08 15:59:59 committee_relay.go:128: received from shard 1 in epoch 0.
+Supervisor: 2023/06/08 16:00:00 committee_relay.go:128: received from shard 0 in epoch 0.
+Supervisor: 2023/06/08 16:00:05 committee_relay.go:128: received from shard 1 in epoch 0.
+Supervisor: 2023/06/08 16:00:05 committee_relay.go:128: received from shard 0 in epoch 0.
+Supervisor: 2023/06/08 16:00:10 committee_relay.go:128: received from shard 1 in epoch 0.
+Supervisor: 2023/06/08 16:00:10 committee_relay.go:128: received from shard 0 in epoch 0.
+Supervisor: 2023/06/08 16:00:14 committee_relay.go:128: received from shard 1 in epoch 0.
+Supervisor: 2023/06/08 16:00:15 committee_relay.go:128: received from shard 0 in epoch 0.
+Supervisor: 2023/06/08 16:00:19 committee_relay.go:128: received from shard 1 in epoch 0.
+Supervisor: 2023/06/08 16:00:20 supervisor.go:129: Supervisor: now sending cstop message to all nodes
+Supervisor: 2023/06/08 16:00:20 supervisor.go:135: Supervisor: now Closing
+Supervisor: 2023/06/08 16:00:20 supervisor.go:182: Closing...
+Supervisor: 2023/06/08 16:00:20 supervisor.go:184: Average_TPS
+Supervisor: 2023/06/08 16:00:20 supervisor.go:185: [501.06836594422543] 501.06836594422543
+Supervisor: 2023/06/08 16:00:20 supervisor.go:184: Transaction_Confirm_Latency
+Supervisor: 2023/06/08 16:00:20 supervisor.go:185: [82.87232446408137] 82.87232446408137
+Supervisor: 2023/06/08 16:00:20 supervisor.go:184: CrossTransaction_ratio
+Supervisor: 2023/06/08 16:00:20 supervisor.go:185: [0.4993 100000 49930] 0.4993
+Supervisor: 2023/06/08 16:00:20 supervisor.go:184: Tx_number
+Supervisor: 2023/06/08 16:00:20 supervisor.go:185: [100000] 100000
+Supervisor: 2023/06/08 16:00:20 supervisor.go:189: Trying to input .csv
+Supervisor: 2023/06/08 16:00:20 supervisor.go:233: [501.06836594422543] 501.06836594422543
+Supervisor: 2023/06/08 16:00:20 supervisor.go:233: [82.87232446408137] 82.87232446408137
+Supervisor: 2023/06/08 16:00:20 supervisor.go:233: [0.4993 100000 49930] 0.4993
+Supervisor: 2023/06/08 16:00:20 supervisor.go:233: [100000] 100000
